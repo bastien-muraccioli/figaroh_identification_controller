@@ -1,3 +1,6 @@
-add_fsm_state_simple(NewFSMController_Initial)
+add_fsm_state_simple(FigarohIdentificationController_Initial)
+add_fsm_state_simple(FigarohIdentificationController_Trapezoid)
+add_fsm_state_simple(FigarohIdentificationController_SerialTrapezoid)
+add_fsm_state_simple(FigarohIdentificationController_TrapezoidPose)
 
 add_fsm_data_directory(data)
